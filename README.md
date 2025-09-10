@@ -2,7 +2,7 @@
 
 A simple Python script that lets you set a countdown timer in seconds, minutes, or hours. It displays the remaining time in HH:MM:SS format and alerts when the countdown is complete.
 
-🚀 Features
+🚀 Features  
 
 ⏱ Accepts input in seconds, minutes, or hours
 
